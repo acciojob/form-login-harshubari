@@ -1,5 +1,3 @@
-// script.js
-
 function getFormvalue() {
     var form = document.getElementById("form1");
     var firstName = form.elements["fname"].value;
